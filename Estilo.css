@@ -1,0 +1,21 @@
+#map{
+    border:1px rgb(0, 17, 255) solid;
+    font-size:35px;
+    width: 50%;
+    height: 600px;
+    margin:0 auto;
+    
+}
+
+#div2{
+    border:1px rgb(0, 17, 255) solid;
+    font-size:35px;
+    width: 20%;
+    height: 20%;
+    margin:0 auto;
+    
+}
+
+body{
+    background-color: rgb(138, 136, 136);
+}
